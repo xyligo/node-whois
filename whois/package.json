@@ -1,6 +1,6 @@
 {
   "name": "@xyligo/whois",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mix implementation of php-whois and node-simplewhois",
   "main": "index.js",
   "repository": { 
