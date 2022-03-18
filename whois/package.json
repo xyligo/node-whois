@@ -1,0 +1,16 @@
+{
+  "name": "@xyligo/whois",
+  "version": "1.0.0",
+  "description": "mix implementation of php-whois and node-simplewhois",
+  "main": "index.js",
+  "repository": { 
+    "type": "git",
+    "url": "https://github.com/xyligo/node-whois"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node", "domain", "whois"
+  ]
+}
+
+
